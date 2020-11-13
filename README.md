@@ -1,3 +1,5 @@
+This app allows you to increment, decrement or delete given counters.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
