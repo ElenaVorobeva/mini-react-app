@@ -1,6 +1,6 @@
 This app allows you to increment, decrement or delete given counters.
 
-(GH-pages)[https://elenavorobeva.github.io/mini-react-app/]
+[GH-pages](https://elenavorobeva.github.io/mini-react-app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
